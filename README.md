@@ -1,3 +1,3 @@
 # Blog
 
-## Here hello word !
+## Here hello world !
